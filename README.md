@@ -14,6 +14,8 @@
  Artifact </a> : User base interface connected with database  <br></br>
  <a href="https://github.com/redarcher69/forge1.20.1mod">
  forgeMod </a> : Trying to make a minecraft forge mod <br></br>
+  <a href="https://github.com/CodreaCodrin/SpleenAt">
+ Spleen </a> : 2d pixel art slasher game
 
 ## 🏆 Achievements :
 - Perfect admission score (10) at Babeș-Bolyai University's Computer Science program.
