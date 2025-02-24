@@ -19,9 +19,9 @@
 
 ## 🏆 Achievements :
 - Perfect admission score (10) at Babeș-Bolyai University's Computer Science program.
-- Hackathon participant, gaining experience in teamwork and collaboration.
+- Hackathon participant, gaining experience in teamwork and collaboration; <a href="https://github.com/Paul-Gabriel/UNIHACK39"> Project repository UNIHACK Timisoara </a> .
 
-## :symbols: Languages & Tools Usage :
+## :symbols: Languages & Tools Usage 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redarcher69&layout=compact&theme=radical)
 
 ## 📫 Contacts :
