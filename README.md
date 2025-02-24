@@ -1,4 +1,4 @@
-:scroll: Professions :
+## :scroll: Professions :
 🎓 **Computer Science Student** at Babeș-Bolyai University, Cluj-Napoca  
 🌟 Game and application development
 
