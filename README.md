@@ -22,7 +22,7 @@
 - Hackathon participant, gaining experience in teamwork and collaboration; <a href="https://github.com/Paul-Gabriel/UNIHACK39"> Project repository UNIHACK Timisoara </a> .
 
 ## :symbols: Languages & Tools Usage 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redarcher69&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redusca&layout=compact&theme=radical)
 
 <table>
   <tr>
