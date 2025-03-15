@@ -34,8 +34,13 @@
       <img src="https://user-images.githubusercontent.com/14800051/28288788-5e6cba04-6b0e-11e7-9be9-9a68f30ebf3d.png" width="48" height="48" alt="Unity" />
       <br>Unity
     </td>
+    <td align="center" width="96">
+      <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="48" height="48" alt="VS" />
+      <br>VisualStudio
+    </td>
   </tr>
 </table>
+
 
 
 ## 📫 Contacts :
