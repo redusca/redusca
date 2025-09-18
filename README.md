@@ -29,6 +29,8 @@
 ## :symbols: Languages & Tools Usage 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redusca&layout=compact&theme=radical)
 
+#### Include most used : C#, Java , Python.
+
 <table>
   <tr>
     <td align="center" width="96">
