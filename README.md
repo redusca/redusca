@@ -3,9 +3,10 @@
 🌟 Game and application development
 
 ## :hammer: In Coding I :
-- Crafted applications in **Java**, **C++**, **C#**
-- Created interactive user interfaces with **JavaFX** and **Qt**.
-- Designed software systems using **Object-Oriented Programming** principles and **Design Patterns**.
+- Crafted applications in **Java**, **C++**, **C#*",
+- Created interactive user interfaces with **JavaFX** and **Qt**,
+- Designed software systems using **Object-Oriented Programming** principles and **Design Patterns**,
+- Used AI Model and tools to create AI power applications.
 
 ## 🐸 Work experience : 
 - Internship at [ComputaCenter](https://www.computacenter.com.ro/ai-internship)
