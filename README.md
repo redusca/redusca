@@ -1,7 +1,7 @@
 ## :scroll: Professions :
-🤖 **AI Solutions Engineer** at ComputaCenter, Romania
-🎓 **Computer Science Student** at Babeș-Bolyai University, Cluj-Napoca  
-🌟 Game and application development
+- 🤖 **AI Solutions Engineer** at ComputaCenter, Romania ;
+- 🎓 **Computer Science Student** at Babeș-Bolyai University, Cluj-Napoca  ;
+- 🌟 **Game and application development**.
 
 ## :hammer: In Coding I :
 - Crafted applications in **Java**, **C++**, **C#*",
