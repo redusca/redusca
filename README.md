@@ -2,12 +2,17 @@
 🎓 **Computer Science Student** at Babeș-Bolyai University, Cluj-Napoca  
 🌟 Game and application development
 
-## :hammer: Experience  in :
-- Crafting applications in **Java**, **C++**, **C#**
-- Building interactive user interfaces with **JavaFX** and **Qt**.
-- Designing software systems using **Object-Oriented Programming** principles and **Design Patterns**.
+## :hammer: In Coding I :
+- Crafted applications in **Java**, **C++**, **C#**
+- Created interactive user interfaces with **JavaFX** and **Qt**.
+- Designed software systems using **Object-Oriented Programming** principles and **Design Patterns**.
 
-## 📌 My Projects :
+## 🐸 Work experience : 
+- Internship at [ComputaCenter](https://www.computacenter.com.ro/ai-internship)
+- Working at ComputaCenter 🔌
+
+
+## 📌 My Personal Projects :
  <a href=https://github.com/redarcher69/Power-Chess>
  ChessGame </a> : A game of chess with working host LAN  <br></br>
  <a href="https://github.com/redarcher69/artifact"> 
