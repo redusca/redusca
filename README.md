@@ -35,6 +35,10 @@
       <img src="https://github.com/user-attachments/assets/74f2c9cd-bb9b-4cd3-a7a4-ff27a19fc71e" width="48" height="48" alt="Aseprite" />
       <br>Aseprite
     </td>
+      <td align="center" width="96">
+      <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/14800051/28288788-5e6cba04-6b0e-11e7-9be9-9a68f30ebf3d.png" width="48" height="48" alt="Unity" />
       <br>Unity
@@ -43,6 +47,11 @@
       <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="48" height="48" alt="VS" />
       <br>VisualStudio
     </td>
+    <td align="center" width="96">
+      <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="48" height="48" alt="VS Code" />
+      <br>VSCode
+    </td>
+
   </tr>
 </table>
 
