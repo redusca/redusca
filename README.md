@@ -17,21 +17,17 @@
 ## 📌 My Personal Projects :
  <a href=https://github.com/redarcher69/Power-Chess>
  ChessGame </a> : A game of chess with working host LAN  <br></br>
- <a href="https://github.com/redarcher69/artifact"> 
- Artifact </a> : User base interface connected with database  <br></br>
- <a href="https://github.com/redarcher69/forge1.20.1mod">
- forgeMod </a> : Trying to make a minecraft forge mod <br></br>
   <a href="https://github.com/CodreaCodrin/SpleenAt">
  Spleen </a> : 2d pixel art slasher game. <a href=https://github.com/redusca/SpleenBuild> BuildRepo <a/>
 
 ## 🏆 Achievements :
-- Perfect admission score (10) at Babeș-Bolyai University's Computer Science program.
+- Perfect admission score (10) at Babeș-Bolyai University's Computer Science program. Finish Bachelor with 9.33.
 - Hackathon participant, gaining experience in teamwork and collaboration; <a href="https://github.com/Paul-Gabriel/UNIHACK39"> Project repository UNIHACK Timisoara </a> .
 
 ## :symbols: Languages & Tools Usage 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redusca&layout=compact&theme=radical)
 
-#### Include most used : C#, Java , Python.
+#### Include most used : C#, Java, Python.
 
 <table>
   <tr>
