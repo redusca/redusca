@@ -9,7 +9,7 @@
 - 🎓 **Computer Science Student** at Babeș-Bolyai University, Cluj-Napoca (Bachelor's in Computer Science & Master's in Software Engineering)
 - 🌟 **Game and application development**
 
-## 🔨 In Coding I
+## 🔨 Developer Skills
 - Build full-stack applications with **Python**, **TypeScript/JavaScript**, **C#**, **Java** and **C/C++**
 - Create APIs and web apps with **FastAPI**, **React**, REST & streaming APIs, **PostgreSQL**, **Redis** and **Celery**
 - Build **agentic AI** systems and LLM applications (RAG, LangChain/LangGraph, vLLM, Hugging Face, PyTorch) and work with computer vision and MLOps
