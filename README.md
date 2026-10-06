@@ -20,6 +20,7 @@
 ## 🐸 Work Experience
 **AI Solutions Engineer** · Computacenter, Cluj-Napoca · *Sep 2025 – Present* :
 - To-Do
+
 **AI Developer Intern** · Computacenter, Cluj-Napoca · *Jul 2025 – Aug 2025* :
 - Developed a full-stack Terms & Conditions analysis browser extension powered by AI automation, plus a backoffice dashboard that automates web document extraction, LLM-powered summarization, and vector-based legal risk and red-flag detection.
 
